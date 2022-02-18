@@ -1,5 +1,7 @@
 # BundlingMinificationNETCore
 
+Link: https://blog.elmah.io/how-we-do-bundling-and-minification-in-asp-net-core/
+
 How we do bundling and minification in ASP.NET Core
 Facebook Twitter LinkedIn Email
 Written by Thomas Ardal, October 27, 2020
